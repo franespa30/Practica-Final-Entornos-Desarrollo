@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BEEP\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BEEP\\.nuget\\packages"
+    ]
+  }
+}
